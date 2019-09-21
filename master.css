@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'Turret Road';
+  src: url("./fonts/turret_road/TurretRoad-Regular.ttf");
+}
+
+body {
+  font-size: 100%;
+  background-color: #8c2f39;
+}
+
+.red-text {
+  color: red;
+}
+
+.title-text {
+  font-family: 'Turret Road', cursive;
+  color: #e0e2db;
+}
+
+.first-title {
+  font-size: 2rem;
+}
+
+.second-title {
+  font-size: 1.50rem;
+}
+
+.text {
+  font-family: monospace;
+  color: #d6d1b1;
+  font-size: 0.96rem;
+}
+
+.figure-legend {
+  font-size: 0.80rem;
+  text-align: center;
+  padding-top: 0.75rem;
+}
+
+.border-false {
+  border: 1px solid #d6d1b1;
+  border-radius: 10px;
+  padding: 0.75rem;
+}
+
+.image {
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.padding-between-divs {
+  margin-top: 1rem;
+}
